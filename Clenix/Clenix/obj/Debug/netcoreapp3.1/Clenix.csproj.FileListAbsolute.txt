@@ -1,0 +1,13 @@
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.AssemblyInfoInputs.cache
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.AssemblyInfo.cs
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.exe
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.deps.json
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.runtimeconfig.json
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.runtimeconfig.dev.json
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.dll
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\bin\Debug\netcoreapp3.1\Clenix.pdb
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.dll
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.pdb
+C:\Users\Администратор\Documents\C#\Clenix\Clenix\obj\Debug\netcoreapp3.1\Clenix.genruntimeconfig.cache
