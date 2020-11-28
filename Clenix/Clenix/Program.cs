@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Threading;
 
 namespace Clenix
@@ -11,7 +12,7 @@ namespace Clenix
             Console.WriteLine("Привет пользователь нашего Clenix.com");
             Console.ReadKey();
             Console.WriteLine();
-            Console.WriteLine("Введите свои стим данные");
+            Console.WriteLine("Введите данные Steam для обработки");
             Console.WriteLine();
             Console.Write("Логин : ");
             String Login = Console.ReadLine();
@@ -37,7 +38,31 @@ namespace Clenix
             Console.SetCursorPosition(50, 50);
             Console.WriteLine("Обработка успешно прошла");
             Console.ReadKey();
-            
+            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+            Console.WriteLine("Войдите повторно в систему");
+            Console.WriteLine();
+            while (true)
+            {
+                Console.WriteLine("Логин :");
+                String LoginPro = Console.ReadLine();
+                Console.WriteLine("Пароль :");
+                String PasswordPro = Console.ReadLine();
+                if (Login == LoginPro & Password == PasswordPro)
+                {
+                    
+                    Console.WriteLine("Успешный вход в систему !");
+                    break;   
+                }
+                else
+                {
+                    Console.WriteLine("А хуй тебе");
+                    break;
+               }
+                
+            }
+            Console.ReadKey(true);
+
         }
 
     }
