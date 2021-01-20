@@ -1,0 +1,12 @@
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.exe
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.deps.json
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.runtimeconfig.json
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.runtimeconfig.dev.json
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.dll
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\bin\Release\netcoreapp3.1\Clenix.pdb
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.AssemblyInfoInputs.cache
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.AssemblyInfo.cs
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.csproj.CoreCompileInputs.cache
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.dll
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.pdb
+E:\Сбор моих программы на Любом языке\C#\Clenix\Clenix\Clenix\obj\Release\netcoreapp3.1\Clenix.genruntimeconfig.cache

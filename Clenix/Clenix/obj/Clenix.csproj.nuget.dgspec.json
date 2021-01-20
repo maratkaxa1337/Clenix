@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Администратор\\Documents\\C#\\Clenix\\Clenix\\Clenix.csproj": {}
+    "E:\\Сбор моих программы на Любом языке\\C#\\Clenix\\Clenix\\Clenix\\Clenix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Администратор\\Documents\\C#\\Clenix\\Clenix\\Clenix.csproj": {
+    "E:\\Сбор моих программы на Любом языке\\C#\\Clenix\\Clenix\\Clenix\\Clenix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор\\Documents\\C#\\Clenix\\Clenix\\Clenix.csproj",
+        "projectUniqueName": "E:\\Сбор моих программы на Любом языке\\C#\\Clenix\\Clenix\\Clenix\\Clenix.csproj",
         "projectName": "Clenix",
-        "projectPath": "C:\\Users\\Администратор\\Documents\\C#\\Clenix\\Clenix\\Clenix.csproj",
-        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор\\Documents\\C#\\Clenix\\Clenix\\obj\\",
+        "projectPath": "E:\\Сбор моих программы на Любом языке\\C#\\Clenix\\Clenix\\Clenix\\Clenix.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Сбор моих программы на Любом языке\\C#\\Clenix\\Clenix\\Clenix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
